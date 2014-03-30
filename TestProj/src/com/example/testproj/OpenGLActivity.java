@@ -22,8 +22,8 @@ class MyGLSurfaceView extends GLSurfaceView {
            // Set the Renderer for drawing on the GLSurfaceView
         setRenderer(new MyGLRenderer());
         
-        // Render the view only when there is a change in the drawing data
-         setRenderMode(GLSurfaceView.RENDERMODE_WHEN_DIRTY); 
+        // Render the view only when there is a change in the drawing data, removed for rotation of object
+        // setRenderMode(GLSurfaceView.RENDERMODE_WHEN_DIRTY); 
          Log.i("MyGLSurfaceView", "MyGLSurfaceView : setRenderMode Set");
          
          Log.i("MyGLSurfaceView", "MyGLSurfaceView : Left the constructor");
