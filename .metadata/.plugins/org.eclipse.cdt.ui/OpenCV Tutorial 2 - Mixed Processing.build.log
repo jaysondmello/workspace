@@ -1,0 +1,6 @@
+17:24:51 **** Auto Build of configuration Default for project OpenCV Tutorial 2 - Mixed Processing ****
+"\\ndk-build.cmd" 
+Cannot run program "\ndk-build.cmd": Launching failed
+
+17:24:51 Build Finished (took 98ms)
+

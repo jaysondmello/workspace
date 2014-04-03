@@ -1,0 +1,6 @@
+17:24:51 **** Auto Build of configuration Default for project OpenCV Sample - native-activity ****
+"\\ndk-build.cmd" 
+Cannot run program "\ndk-build.cmd": Launching failed
+
+17:24:51 Build Finished (took 59ms)
+
